@@ -4,7 +4,7 @@ Challenge for front end developer, creating an online store
 
 ## Online preview
 
-You can see the this project online at **[easy-mail.netlify.app/](https://easy-mail.netlify.app)**
+You can see the this project online at **[sistemas-mks.vercel.app](https://sistemas-mks.vercel.app)**
 
 ```
 yarn install
