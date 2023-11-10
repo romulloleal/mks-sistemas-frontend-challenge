@@ -1,0 +1,26 @@
+:root {
+  --blue: #0f52ba;
+  --grey: #2c2c2c;
+  --dark-grey: #373737;
+  --light-grey: #eeeeee;
+}
+
+* {
+  box-sizing: border-box;
+  padding: 0;
+  margin: 0;
+}
+
+html,
+body {
+  position: relative;
+  max-width: 100vw;
+  min-height: 100vh;
+  overflow-x: hidden;
+  background-color: #f9f9f9;
+}
+
+a {
+  color: inherit;
+  text-decoration: none;
+}
